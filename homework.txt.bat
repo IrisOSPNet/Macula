@@ -1,0 +1,1 @@
+batch @echo off :loop msg * “Click OK to continue.” goto loop 
