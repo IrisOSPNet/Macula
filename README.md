@@ -1,7 +1,16 @@
 # Welcome To The Iris Macula Project!
-The Macula project is a series of miniprojects building up to the main thing. these include finetuned models, intagration unit, and finially a streamlined UI!
+The Macula project is a series of miniprojects building up to the main thing. these include finetuned models, integration unit, and finially a streamlined UI!
 # Roadmap
 here is the list in order of what we will be working on
+### models
+```
+Macula
+MaculaF
+MaculaE
+MaculaEP
+MaculaU
+```
+### some other things
 ```
 1. Fundraising for server's
 2. Model Testing
